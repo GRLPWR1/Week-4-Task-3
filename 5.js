@@ -6,3 +6,5 @@ const createNewArr = (arr, a, b) => {
 }
 
 console.log(createNewArr([1, 2, 3, 1, 2], 1, 2))
+
+// НИЧЕГО НЕ РЕФАКТОРИЛА, СРАЗУ НАПИСАЛА ЧЕРЕЗ filter
